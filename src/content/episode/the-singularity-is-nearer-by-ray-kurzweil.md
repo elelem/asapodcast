@@ -9,10 +9,11 @@ episode: 3
 season: 1
 episodeType: full
 ---
-Briefing Doc: The Singularity Is Nearer by Ray Kurzweil
+The Singularity Is Nearer by Ray Kurzweil\
 
-Main Theme:
 Ray Kurzweil's book, The Singularity Is Nearer, argues that the exponential growth of information technology, particularly in artificial intelligence (AI) and nanotechnology, will lead to a technological singularity by approximately 2049. This singularity represents a point in time when technological progress accelerates beyond our ability to fully comprehend or predict, fundamentally transforming human civilization and our very nature.
+
+[Buy this book on Amazon](https://amzn.to/3YeAsnj)
 
 Key Ideas and Facts:
 I. The Law of Accelerating Returns and Exponential Technological Growth:
