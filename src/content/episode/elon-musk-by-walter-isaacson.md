@@ -12,6 +12,8 @@ episodeType: full
 Elon Musk: A Briefing Based on Isaacson's Biography
 This briefing analyzes excerpts from Walter Isaacson's biography of Elon Musk, highlighting key themes and insights about Musk's personality, motivations, and leadership style.
 
+[Buy this book on Amazon](https://amzn.to/4ev5LzD)
+
 Dominant Themes:
 The Impact of a Turbulent Childhood: Musk's difficult upbringing, marked by an emotionally abusive father and a deep-seated fear of abandonment, profoundly shaped his worldview and drive.
 Grimes, the mother of three of his children, observes, "I think he got conditioned in childhood that life is pain." (Page 1)
