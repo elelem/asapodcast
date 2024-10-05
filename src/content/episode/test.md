@@ -5,7 +5,8 @@ pubDate: 05 Oct 2024
 duration: 11:51
 size: 11.4
 explicit: false
-episode: ""
+episode: 1
+season: 1
 episodeType: full
 ---
 test
