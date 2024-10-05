@@ -9,10 +9,11 @@ episode: 2
 season: 1
 episodeType: full
 ---
-Briefing Doc: Consider Phlebas by Iain M. Banks
+Consider Phlebas by Iain M. Banks\
 
-Main Themes:
 The Nature of Consciousness and Artificial Intelligence: The novel explores the vast capabilities and complex motivations of the Culture's Minds, advanced AIs that manage most aspects of society. The story contrasts their perspective with that of Bora Horza, a humanoid who questions their methods and morality. This exploration delves into the meaning of life, free will, and the ethics of advanced technology.
+
+[Buy this book on Amazon](https://amzn.to/4eOfiBK)
 
 War and its Consequences: The backdrop of a galaxy-spanning war between the Culture and the Idirans provides a stage for examining the justifications for conflict, the impact on individuals, and the nature of victory and defeat.
 
