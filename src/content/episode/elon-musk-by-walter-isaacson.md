@@ -1,6 +1,6 @@
 ---
 title: Elon Musk by Walter Isaacson
-audioUrl: https://github.com/elelem/asapodcast/raw/refs/heads/main/public/audio/episode-1.mp3?raw=true
+audioUrl: https://github.com/elelem/asapodcast/blob/main/public/audio/episode-1.mp3?raw=true
 pubDate: 05 Oct 2024
 duration: 11:51
 size: 11.4
