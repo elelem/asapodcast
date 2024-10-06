@@ -9,7 +9,7 @@ episode: 4
 season: 1
 episodeType: full
 ---
-"Theft of Fire" by Devon Erikson. 
+Theft of Fire by Devon Erikson. 
 
 The story revolves around a space pilot named Marcus Warnoc, who is hired by a wealthy and cunning woman named Miranda Foxgrove to help her recover a mysterious artifact from a location in the outer solar system. 
 
