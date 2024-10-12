@@ -9,7 +9,7 @@ episode: 5
 season: 1
 episodeType: full
 ---
-Ethan Mollick's book "Co-Intelligence: Living and Working with AI." 
+Ethan Mollick's book Co-Intelligence: Living and Working with AI.
 
 It discusses the implications of the development of Large Language Models (LLMs) and their impact on various aspects of life, especially work and education. 
 
